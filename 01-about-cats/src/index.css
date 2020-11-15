@@ -267,7 +267,7 @@ input[type=radio]:checked + label {
     grid-template-columns: 40px auto 40px;
     justify-content: center;
   }
-  .card footer, .age-filter {
+  .card footer, .age-filter, .street-breed, .no-breed-radio_btn, .curl-breed, .unusual-breed, .smoke-breed, .sfinx-breed-button {
     display: none;
   }
 
@@ -332,7 +332,7 @@ input[type=radio]:checked + label {
     grid-auto-rows: minmax(400px, auto);
   }
 
-  .card footer, .age-filter {
+  .card footer, .age-filter, .street-breed, .no-breed-radio_btn, .curl-breed, .unusual-breed, .smoke-breed, .sfinx-breed-button {
     display: none;
   }
 
